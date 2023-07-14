@@ -1,3 +1,3 @@
 # py-Leetcode
 
-50 listed Leetcode questions done in Python.
+50 popular listed Leetcode questions done in Python.
