@@ -35,7 +35,12 @@ Dynamic Programming
 - Unique Paths - https://leetcode.com/problems/unique-paths/
 - Jump Game - https://leetcode.com/problems/jump-game/
 
-Heap
+
+Tree
+- Word Search II - https://leetcode.com/problems/word-search-ii/
+
+
+Heaps
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
