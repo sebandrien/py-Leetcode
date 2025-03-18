@@ -1,4 +1,4 @@
-# py-Leetcode
+# py Leetcode
 
 Arrays
 
